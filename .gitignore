@@ -149,7 +149,7 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
-
+config.yml
 # Windows shortcuts
 *.lnk
 
